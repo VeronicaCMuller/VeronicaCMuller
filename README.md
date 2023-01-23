@@ -30,6 +30,7 @@
 - Figma
 - VSCode
 - NetBeans
+- Eclipse
 
 <br><br>
 
