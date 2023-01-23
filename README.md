@@ -1,4 +1,45 @@
-### Hi there 👋
+<img align="right" height="200em" src= "https://raw.githubusercontent.com/gist/VeronicaCMuller/6236d0dc8dfc91fb2a9317e44963e8af/raw/c4cd2b648c07fd5a1d01edbbb2a7050973059045/logo3.svg"/>
+<h1 align="left">Verônica Campos Müller</h1>
+<h3>   Olá, seja bem vindo (a) ao meu Github! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VeronicaCMuller&color=yellow" alt="Profile views" /> </p>
+
+- 📌 Tenho 27 anos, moro em Porto Alegre, RS.
+
+- 📖 Estudante de Análise e Desenvolvimento de Sistemas
+
+- 👩🏽‍💻 Buscando minha primeira oportunidade na area de programação. 
+
+- ☕ Escolhi como foco a linguagem JAVA 
+
+- 💻 Mas já realizei projeto utilizando
+       **JavaScript, HTML, CSS, VSCode, Figma**
+
+- ✨ Estou muito feliz com cada etapa deste processo.
+
+- 🚀 Ansiosa pelos próximos desafios.
+
+
+<br><br>
+
+## 🛠 &nbsp; Ferramentas e Linguagens
+
+- JAVA
+- JavaScript
+- HTML
+- CSS
+- Figma
+- VSCode
+- NetBeans
+
+<br><br>
+
+
+## Contato
+
+<a href="https://www.linkedin.com/in/veronicacamposmuller/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/gist/VeronicaCMuller/c68634b784894fad70926bf3ae9aa0b7/raw/0a6e74c8e9919868b53f4ae62d6b12997f743b85/linkedinVCM.svg" alt="linkedin"/>
+</a>
+
 
 <!--
 **VeronicaCMuller/VeronicaCMuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
