@@ -8,12 +8,7 @@
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas
 
 - 👩🏽‍💻 Buscando minha primeira oportunidade na area de programação. 
-
-- ☕ Escolhi como foco a linguagem JAVA 
-
-- 💻 Mas já realizei projeto utilizando
-       **JavaScript, HTML, CSS, VSCode, Figma**
-
+- 
 - ✨ Estou muito feliz com cada etapa deste processo.
 
 - 🚀 Ansiosa pelos próximos desafios.
@@ -25,6 +20,7 @@
 
 - JAVA
 - JavaScript
+- Nodejs
 - HTML
 - CSS
 - Figma
