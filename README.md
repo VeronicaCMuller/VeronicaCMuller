@@ -8,7 +8,9 @@
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas
 
 - 👩🏽‍💻 Buscando minha primeira oportunidade na area de programação. 
-- 
+
+- ☕ Escolhi como base de estudo a linguagem JAVA.
+
 - ✨ Estou muito feliz com cada etapa deste processo.
 
 - 🚀 Ansiosa pelos próximos desafios.
