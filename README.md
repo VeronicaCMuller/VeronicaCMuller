@@ -5,11 +5,13 @@
 
 - 📌 Tenho 27 anos, moro em Porto Alegre, RS.
 
-- 📖 Estudante de Análise e Desenvolvimento de Sistemas
+- 📖 Estudante de Análise e Desenvolvimento de Sistemas.
+
+- 💻 Estudante do Curso Desenvolvimento Back-End na Cubos Academy, Turma DDS14/DBE05.
 
 - 👩🏽‍💻 Buscando minha primeira oportunidade na area de programação. 
 
-- ☕ Escolhi como base de estudo a linguagem JAVA.
+- ☕  JAVA.
 
 - ✨ Estou muito feliz com cada etapa deste processo.
 
