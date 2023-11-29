@@ -3,13 +3,13 @@
 <h3>   Olá, seja bem vindo (a) ao meu Github! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VeronicaCMuller&color=yellow" alt="Profile views" /> </p>
 
-- 📌 Tenho 27 anos, moro em Porto Alegre, RS.
+- 📌 Tenho 28 anos, moro em Porto Alegre, RS.
 
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas.
 
 - 💻 Estudante do Curso Desenvolvimento Back-End na Cubos Academy, Turma DDS14/DBE05.
 
-- 👩🏽‍💻 Buscando minha primeira oportunidade na area de programação. 
+- 👩🏽‍💻 Estagiária na Espectra Tecnologia. 
 
 - ☕  JAVA.
 
@@ -27,15 +27,10 @@
 - Nodejs
 - HTML
 - CSS
-- Figma
 - VSCode
-- NetBeans
-- Eclipse
 - Spring
 - MongoDB
 - Postman
-- Insomnia
-- Render
 
 <br><br>
 
