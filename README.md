@@ -9,7 +9,8 @@
 
 - 💻 Estudante do Curso Desenvolvimento Back-End na Cubos Academy, Turma DDS14/DBE05.
 
-- 👩🏽‍💻 Estagiária na Espectra Tecnologia. 
+- 👩🏽‍💻 Estagiária na Espectra Tecnologia.
+    - Implementando processos de Q.A junto com a empresa. 
 
 - ☕  JAVA.
 
