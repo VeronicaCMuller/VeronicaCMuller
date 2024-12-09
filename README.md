@@ -3,12 +3,9 @@
 <h3>   Olá, seja bem vindo (a) ao meu Github! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VeronicaCMuller&color=yellow" alt="Profile views" /> </p>
 
-- 📌 Tenho 28 anos, moro em Porto Alegre, RS.
+- 📌 Tenho 29 anos, moro em Porto Alegre, RS.
 
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas.
-
-- 👩🏽‍💻 Estagiária na Espectra Tecnologia.
-    - Implementando processos de Q.A junto com a empresa. 
 
 - ☕  JAVA.
 
@@ -21,14 +18,13 @@
 
 ## 🛠 &nbsp; Ferramentas e Linguagens
 
+- Testes Manuais
+- Testes Expliratórios
+- Testes de Regressão
+- Testes de Integração
 - JAVA
 - JavaScript
-- Nodejs
-- HTML
-- CSS
 - VSCode
-- Spring
-- MongoDB
 - Postman
 
 <br><br>
