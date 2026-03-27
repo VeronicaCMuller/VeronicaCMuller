@@ -3,13 +3,13 @@
 <h3>   Olá, seja bem vindo (a) ao meu Github! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VeronicaCMuller&color=yellow" alt="Profile views" /> </p>
 
-- 📌 Tenho 29 anos, moro em Porto Alegre, RS.
+- 📌 Tenho 30 anos, moro em Porto Alegre, RS.
 
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas.
 
-- ☕  JAVA.
+- ☕  Estudos com foco em Q.A
 
-- ✨ Estou muito feliz com cada etapa deste processo.
+- ✨ Estagiária QA - QUALITY ASSURANCE em BEEIT TECNOLOGIA EM SAUDE
 
 - 🚀 Ansiosa pelos próximos desafios.
 
