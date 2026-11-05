@@ -5,11 +5,14 @@
 
 <h2> Quality Assurance | Software Testing | QA Automation </h2>
 
-Profissional de Quality Assurance, com experiência em garantia da qualidade de software, homologação de sistemas e validação de regras de negócio.
-Minha atuação envolve testes funcionais, exploratórios e de regressão, elaboração de cenários de teste, documentação de evidências, identificação de inconsistências e acompanhamento de correções junto ao time de desenvolvimento.
-Atualmente, estou direcionando meus estudos para automação de testes com Playwright e TypeScript, buscando aprofundar conhecimentos em qualidade de software e estratégias de automação.
-
+Profissional de Quality Assurance, certificada **ISTQB® Certified Tester Foundation Level (CTFL)**, com experiência em garantia da qualidade de software, homologação de sistemas e validação de regras de negócio.
+Minha atuação envolve testes funcionais, exploratórios e de regressão, análise de requisitos, elaboração de cenários de teste, documentação de evidências, identificação de inconsistências e acompanhamento de correções junto ao time de desenvolvimento.
+Atualmente, estou aprofundando meus conhecimentos em automação de testes com Playwright e TypeScript, buscando evoluir na construção de estratégias de qualidade e automação de software.
 <br><br>
+
+## Certificações
+- ISTQB® Certified Tester Foundation Level (CTFL)
+
 
 ## QA & Software Testing
 
