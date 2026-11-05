@@ -9,9 +9,7 @@
 
 - ☕  Estudos com foco em Q.A
 
-- ✨ Estagiária QA - QUALITY ASSURANCE em BEEIT TECNOLOGIA EM SAUDE
-
-- 🚀 Ansiosa pelos próximos desafios.
+- ✨ Q.A - QUALITY ASSURANCE em BEEIT TECNOLOGIA EM SAUDE
 
 
 <br><br>
@@ -22,8 +20,6 @@
 - Testes Expliratórios
 - Testes de Regressão
 - Testes de Integração
-- JAVA
-- JavaScript
 - VSCode
 - Postman
 
