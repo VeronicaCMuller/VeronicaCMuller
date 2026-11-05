@@ -3,25 +3,56 @@
 <h3>   Olá, seja bem vindo (a) ao meu Github! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VeronicaCMuller&color=yellow" alt="Profile views" /> </p>
 
-- 📌 Tenho 30 anos, moro em Porto Alegre, RS.
+<h2> Quality Assurance | Software Testing | QA Automation </h2>
 
-- 📖 Estudante de Análise e Desenvolvimento de Sistemas.
-
-- ☕  Estudos com foco em Q.A
-
-- ✨ Q.A - QUALITY ASSURANCE em BEEIT TECNOLOGIA EM SAUDE
-
+Profissional de Quality Assurance, com experiência em garantia da qualidade de software, homologação de sistemas e validação de regras de negócio.
+Minha atuação envolve testes funcionais, exploratórios e de regressão, elaboração de cenários de teste, documentação de evidências, identificação de inconsistências e acompanhamento de correções junto ao time de desenvolvimento.
+Atualmente, estou direcionando meus estudos para automação de testes com Playwright e TypeScript, buscando aprofundar conhecimentos em qualidade de software e estratégias de automação.
 
 <br><br>
 
-## 🛠 &nbsp; Ferramentas e Linguagens
+## QA & Software Testing
 
-- Testes Manuais
-- Testes Expliratórios
-- Testes de Regressão
-- Testes de Integração
-- VSCode
+- Testes funcionais e exploratórios
+- Testes de regressão
+- Homologação de sistemas
+- Análise de requisitos
+- Elaboração de cenários e casos de teste
+- Validação de regras de negócio
+- Identificação e documentação de bugs
+- Testes de integração
+
+
+## &nbsp; Ferramentas e tecnologias
+
+### Testes
 - Postman
+- Playwright (em desenvolvimento)
+
+### Programação
+
+- Java
+- JavaScript
+- TypeScript (em aprendizado)
+
+### Ferramentas
+
+- Git
+- GitHub
+- Azure DevOps
+- Visual Studio Code
+
+## Atualmente estudando
+
+- Automação de testes com Playwright
+- Page Object Model (POM)
+- Testes End-to-End (E2E)
+- Testes de API
+- Integração contínua com GitHub Actions
+
+### Projetos
+
+Meu portfólio está em construção, com projetos práticos de automação, documentação de testes e validação de aplicações.
 
 <br><br>
 
